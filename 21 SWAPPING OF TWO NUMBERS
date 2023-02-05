@@ -1,0 +1,13 @@
+LDA 0000
+MOV B,A
+LDA 0001
+MOV C,A
+STA 0003
+MOV A,B
+STA 0004
+HLT
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
